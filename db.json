@@ -1,0 +1,64 @@
+{
+  "boards": [
+    {
+      "id": "1",
+      "title": "Моя первая доска",
+      "bgColor": "#7c3aed",
+      "backgroundImage": "",
+      "privacy": "public",
+      "columns": [
+        {
+          "id": "101",
+          "title": "Сделать",
+          "cards": [
+            {
+              "id": "201",
+              "title": "Пример задачи"
+            },
+            {
+              "id": "202",
+              "title": "Заполнить ТЗ"
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "title": "В процессе",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "77b8",
+      "title": "мерей",
+      "columns": [
+        {
+          "id": "1742922391280",
+          "title": "mm",
+          "cards": []
+        },
+        {
+          "id": "1742922400086",
+          "title": "vthtqrf",
+          "cards": []
+        },
+        {
+          "id": "1742922405677",
+          "title": "rgrgr",
+          "cards": []
+        }
+      ],
+      "bgColor": "#7c3aed",
+      "backgroundImage": "",
+      "privacy": "public"
+    },
+    {
+      "id": "4ac8",
+      "title": "рр",
+      "columns": [],
+      "bgColor": "#7c3aed",
+      "backgroundImage": "https://avatars.mds.yandex.net/i?id=3137bc27dbb57b057b86a38ff35984bcb040df81-12384085-images-thumbs&n=13",
+      "privacy": "public"
+    }
+  ]
+}
